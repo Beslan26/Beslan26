@@ -23,6 +23,7 @@
 ### Knowledge and skills
 
 ##### Практический опыт:
+- **Python**
 - **Django**
 - **HTML** и **CSS**
 - IDE **Pycharm**
