@@ -23,7 +23,7 @@ Python, FastAPI, Django, DRF, SQL (PostgreSQL), немного TypeScript (ос�
 Docker, Git, Celery, Redis, RabbitMQ, pytest, PostgreSQL
 
 **Базы данных:**  
-PostgreSQL (основной опыт), SQLite (для локальной разработки)
+PostgreSQL (основной опыт)
 
 ---
 
